@@ -1,0 +1,19 @@
+Build a online Judge project leverging:
+
+HTML CSS -> Bootstrap -> JavaScript -> AngularJS -> Node.js
+
+Scenario: 宏观：use case； 微观：module(focus on interface)
+Necessary: 分析限制条件constraint --人力infra（已知）均有限。做假设hypothesis(预计的限制条件）
+------Business input above-------
+------impl tech below-----------
+Application: service/algorithm
+Kilobit: data (结合先前，了解一下自己数据处理能力上限)
+--------end--------------
+Evolve： 系统上线之后的演进。
+
+
+TODO:
+
+build two projects similier to :
+LeetCode
+GoogleDoc
